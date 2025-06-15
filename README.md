@@ -107,3 +107,5 @@ Here's what it uses:
 ---
 ## Demo
 Here is a short demo of all the features in action.
+[![Watch the demo](https://img.youtube.com/vi/-F577isXZMo/0.jpg)](https://youtu.be/-F577isXZMo)
+
