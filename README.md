@@ -106,6 +106,5 @@ Here's what it uses:
 - [x] Proper snapping after drag
 ---
 ## Demo
-Here is a short demo of all the features in action.
+Click the image below to watch a short demo showcasing all the features in action:
 [![Watch the demo](https://img.youtube.com/vi/-F577isXZMo/0.jpg)](https://youtu.be/-F577isXZMo)
-
